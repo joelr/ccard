@@ -36,7 +36,7 @@ Sample data set, no parameters, will load cards supplied from gist in sample_car
 
 ## Tests
 
-    $ rspec spec
+    $ [bundle exec] rspec spec
     ........
 
     Finished in 0.00387 seconds
